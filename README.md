@@ -1,6 +1,8 @@
 ## Return of the Png
 Program to batch convert .webp files to .png files without the need for 3rd party binaries/software.
 
+Written in Python
+
 Also works on converting single .webp files to .png files.
 
 All file conversions are lossless.
